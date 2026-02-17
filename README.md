@@ -1,6 +1,6 @@
-<!-- GIF TSUKISHIMA -->
+ <!-- GIF TSUKISHIMA -->
 <p align="center">
-  <img src="https://media.tenor.com/L1hZ7XG9l6sAAAAC/tsukishima-kei-smile.gif" width="250"/>
+  <img src="haikyuu-tsukishima.gif" width="250"/>
 </p>
 
 <h1 align="center">🌙 Sofi Nandita Nuranjanah 🌙</h1>
