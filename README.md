@@ -1,19 +1,17 @@
-<!-- NAME WITH STYLE -->
+<!-- GIF TOP -->
 <div align="center">
-
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Sofi+Nandita+Nuranjanah"/>
-  </h1>
-
-  <p>
-    Beginner Developer • Lifelong Learner
-  </p>
-
+  <img src="https://github.com/user-attachments/assets/5b8dfa00-a3df-4637-92cd-975a43df2b73"
+       width="300"
+       style="border-radius:15px;" />
 </div>
 
 <br>
 
----
+<h1 align="center">Sofi Nandita Nuranjanah</h1>
+
+<p align="center">
+  Beginner Developer
+</p>
 
 <br>
 
@@ -23,10 +21,10 @@
 
 ### About
 
-• Based in Indonesia  
+• Indonesia  
 • Student  
-• Focused on programming fundamentals  
-• Exploring modern web technologies  
+• Learning programming  
+• Exploring web development  
 
 </td>
 
@@ -43,13 +41,3 @@
 </td>
 </tr>
 </table>
-
-<br>
-<br>
-
-<!-- GIF AT BOTTOM -->
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/5b8dfa00-a3df-4637-92cd-975a43df2b73"
-       width="380"
-       style="border-radius:18px;" />
-</div>
