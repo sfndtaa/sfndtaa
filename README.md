@@ -1,8 +1,10 @@
-<!-- GIF WITH BORDER -->
+<!-- HERO GIF -->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5b8dfa00-a3df-4637-92cd-975a43df2b73"
-       width="360"
-       style="border-radius:15px; border:3px solid #30363d;" />
+       width="380"
+       style="border-radius:18px; 
+              border:2px solid #58a6ff;
+              box-shadow:0 0 20px rgba(88,166,255,0.4);" />
 </div>
 
 <br>
@@ -10,42 +12,36 @@
 <h1 align="center">Sofi Nandita Nuranjanah</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Student;Beginner+Developer;Learning+Programming;Improving+Every+Day"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=600&lines=Student;Beginner+Developer;Learning+Programming;Improving+Step+by+Step"/>
 </p>
 
 <br>
 
----
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-<div align="center">
+<br>
 
 ### 👩‍💻 About
 
-</div>
+<div style="padding:18px; border-radius:15px; border:1px solid #30363d; background-color:#0d1117;">
 
-<div style="background-color:#0d1117; padding:15px; border-radius:10px; border:1px solid #30363d;">
-
-• Based in Indonesia  
-• Student  
-• Focused on learning programming  
-• Interested in web development  
+📍 Indonesia  
+🎓 Student  
+💻 Learning programming  
+🌐 Interested in web development  
 
 </div>
 
 <br>
 
-<div align="center">
-
 ### 🚀 Currently Learning
 
-</div>
+<div style="padding:18px; border-radius:15px; border:1px solid #30363d; background-color:#0d1117;">
 
-<div style="background-color:#0d1117; padding:15px; border-radius:10px; border:1px solid #30363d;">
-
-HTML  
-CSS  
-JavaScript  
-PHP  
-Laravel  
+• HTML  
+• CSS  
+• JavaScript  
+• PHP  
+• Laravel  
 
 </div>
