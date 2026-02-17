@@ -7,9 +7,9 @@
 
 <br>
 
-<!-- NAME WITH SUBTLE ANIMATION -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sofi+Nandita+Nuranjanah"/>
+<!-- NAME WITH GLOW -->
+<h1 align="center" style="color:#58A6FF; text-shadow: 0 0 8px #58A6FF, 0 0 18px #58A6FF;">
+  SOFI NANDITA NURANJANAH
 </h1>
 
 <p align="center">
@@ -18,12 +18,14 @@
 
 <br>
 
-<table align="center" width="85%" cellpadding="25">
+<table align="center" width="85%" cellpadding="35">
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 style="color:#58A6FF;">About</h3>
+<h3 align="center" style="color:#58A6FF; letter-spacing:2px;">
+  <b>ABOUT</b>
+</h3>
 
 • Indonesia  
 • Student  
@@ -34,7 +36,9 @@
 
 <td width="50%" valign="top">
 
-<h3 style="color:#58A6FF;">Currently Learning</h3>
+<h3 align="center" style="color:#58A6FF; letter-spacing:2px;">
+  <b>CURRENTLY LEARNING</b>
+</h3>
 
 • HTML  
 • CSS  
