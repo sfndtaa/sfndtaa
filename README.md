@@ -1,8 +1,8 @@
  <!-- GIF TSUKISHIMA -->
 <p align="center">
-  <img src="![haikyuu-tsukki](https://github.com/user-attachments/assets/3a53bc34-4852-41cd-aa73-2b0d0f51cad6)
-" width="250"/>
+  <img src="https://github.com/user-attachments/assets/3a53bc34-4852-41cd-aa73-2b0d0f51cad6" width="250"/>
 </p>
+
 
 <h1 align="center">🌙 Sofi Nandita Nuranjanah 🌙</h1>
 
