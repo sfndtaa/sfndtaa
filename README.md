@@ -1,4 +1,3 @@
-<!-- NAME WITH STRONGER CLEAN GLOW -->
 <h1 align="center" 
     style="
     font-size:44px;
