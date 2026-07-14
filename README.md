@@ -16,23 +16,23 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF"/>
 </p>
 
-# 🌌 About Me
+#  About Meeee :)
 
 <table>
 <tr>
 
 <td width="55%" valign="top">
 
-### 👋 Hello!
+### 👋 Helllowwwww!
 
 I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia who enjoys building websites, creating UI designs, and exploring 3D modeling.
 
 - 🇮🇩 Based in Indonesia
-- 💻 Interested in Web Development
-- 🎨 UI / UX Design
-- 🧩 3D Modeling
-- 🌱 Currently learning Laravel
-- ☕ Always learning something new
+-  Interested in Web Development
+-  UI / UX Design
+-  3D Modeling
+-  Currently learning Laravel
+-  Always learning something new
 
 </td>
 
@@ -47,7 +47,7 @@ I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia w
 
 ---
 
-# 🛠 Languages
+#  Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,mysql"/>
@@ -55,7 +55,7 @@ I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia w
 
 ---
 
-# 🎨 Design & Tools
+#  Design & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma,blender,photoshop,vscode,git,github,laravel"/>
@@ -63,14 +63,14 @@ I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia w
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 <table>
 <tr>
 
 <td width="50%">
 
-### 💻 Programming
+###  Programming
 
 - HTML
 - CSS
@@ -83,7 +83,7 @@ I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia w
 
 <td width="50%">
 
-### 🎨 Design
+###  Design
 
 - Figma
 - Blender
@@ -97,50 +97,8 @@ I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia w
 
 ---
 
-# 🌠 Coding Zone
 
-<p align="center">
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="340"/>
-</p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF"/>
-</p>
-
- ---
-
-# ⏰ Live Clock
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1000&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub!;Happy+Coding!+%F0%9F%92%99;Keep+Learning+Everyday!"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sfndtaa&theme=algolia&no-frame=true&row=1&column=4"/>
-</p>
-
----
-
-# 💻 Development Setup
-
-```text
-💙 OS         : Windows 11
-💙 IDE        : VS Code
-💙 Framework  : Laravel
-💙 Database   : MySQL
-💙 Design     : Figma
-💙 Version    : Git & GitHub
-```
-
----
-
-# 🐱 Coding Cat
-
-<p align="center">
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="320">
-</p>
-
----
 
 # 🌌 My Hubby
 
@@ -148,15 +106,7 @@ I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia w
 <img src="https://github.com/user-attachments/assets/5b8dfa00-a3df-4637-92cd-975a43df2b73" width="330">
 </p>
 
----
 
-# 💭 Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
 
 # 🌊 Thanks for Visiting
 
