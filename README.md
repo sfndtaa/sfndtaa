@@ -83,7 +83,7 @@ I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia w
 
 <td width="50%">
 
-###  Design
+###  Designn
 
 - Figma
 - Blender
@@ -100,7 +100,7 @@ I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia w
 
 
 
-# 🌌 My Hubby
+#  My Fav Char
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/5b8dfa00-a3df-4637-92cd-975a43df2b73" width="330">
@@ -108,7 +108,7 @@ I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia w
 
 
 
-# 🌊 Thanks for Visiting
+#  Thankss for Visitinggg!!
 
 <p align="center">
 
