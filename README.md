@@ -72,8 +72,6 @@ I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia w
 
 ###  Programming
 
-- HTML
-- CSS
 - JavaScript
 - PHP
 - Python
