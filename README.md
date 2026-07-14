@@ -2,7 +2,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,40:58A6FF,100:0D1117&text=Sofi%20Nandita%20Nuranjanah&fontColor=ffffff&fontSize=40&fontAlignY=35"/>
 </p>
 
-<h1 align="center">SOFI NANDITA NURANJANAH</h1>
 
 <p align="center">
 <b>SOFTWARE ENGINEERING STUDENT</b>
@@ -95,15 +94,6 @@ Currently learning Laravel
 </p>
 
 ---
-
-# Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
 
 # Thanks for Visiting!!
 
