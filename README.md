@@ -70,7 +70,7 @@ I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia w
 
 <td width="50%">
 
-###  𐙚˙⋆˚ Programming
+###  𐙚˙⋆˚Programming
 
 - JavaScript
 - PHP
@@ -81,7 +81,7 @@ I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia w
 
 <td width="50%">
 
-###  𐙚˙⋆˚ Designn
+###  𐙚˙⋆˚Designn
 
 - Figma
 - Blender
