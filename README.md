@@ -78,35 +78,7 @@ Currently learning Laravel
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,figma,blender,git,github,vscode,mysql"/>
 </p>
 
----
 
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sfndtaa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfndtaa&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sfndtaa&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sfndtaa&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
 
 # Coding Zone
 
@@ -116,7 +88,7 @@ Currently learning Laravel
 
 ---
 
-# 🎨 My Artwork
+# My Hubby
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/5b8dfa00-a3df-4637-92cd-975a43df2b73" width="320"/>
@@ -132,13 +104,6 @@ Currently learning Laravel
 
 ---
 
-# Contribution Snake
-
-<p align="center">
-<img src="https://github.com/sfndtaa/sfndtaa/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 # Thanks for Visiting!!
 
