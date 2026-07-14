@@ -16,7 +16,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF"/>
 </p>
 
-#  ✩‧About Meeee :)
+#  ✩‧ About Meeee :)
 
 <table>
 <tr>
@@ -47,7 +47,7 @@ I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia w
 
 ---
 
-#  ✩‧Languages
+#  ✩‧ Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,mysql"/>
@@ -55,7 +55,7 @@ I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia w
 
 ---
 
-#  ✩‧Design & Tools
+#  ✩‧ Design & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma,blender,photoshop,vscode,git,github,laravel"/>
@@ -63,14 +63,14 @@ I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia w
 
 ---
 
-#  ✩‧Currently Learning
+#  ✩‧ Currently Learning
 
 <table>
 <tr>
 
 <td width="50%">
 
-###  𐙚˙⋆.˚Programming
+###  𐙚˙⋆.˚ Programming
 
 - JavaScript
 - PHP
