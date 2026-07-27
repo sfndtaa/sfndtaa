@@ -97,7 +97,7 @@ I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia w
 
 
 
-# Thankss for Visitinggg!!
+# ✩‧ Thankss for Visitinggg!!
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5b8dfa00-a3df-4637-92cd-975a43df2b73" width="330">
