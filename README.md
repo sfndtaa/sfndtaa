@@ -97,17 +97,16 @@ I'm **Sofi Nandita Nuranjanah**, a Software Engineering student from Indonesia w
 
 
 
-
-#  Thankss for Visitinggg!!
+# Thankss for Visitinggg!!
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/5b8dfa00-a3df-4637-92cd-975a43df2b73" width="330">
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Thanks+for+visiting!;Hope+you+have+a+great+day!;See+you+again!+%F0%9F%92%99"/>
-
+  <img src="https://github.com/user-attachments/assets/5b8dfa00-a3df-4637-92cd-975a43df2b73" width="330">
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0D1117,40:58A6FF,100:0D1117"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Thanks+for+visiting!;Hope+you+have+a+great+day!;See+you+again!+%F0%9F%92%99"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0D1117,40:58A6FF,100:0D1117"/>
 </p>
